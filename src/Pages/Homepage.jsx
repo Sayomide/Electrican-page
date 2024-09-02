@@ -1,8 +1,9 @@
+import Navbar from '../Components/Navbar.jsx'
 
 function Homepage() {
   return(
     <>
-      <h4> hey </h4>
+      <Navbar />
     </>
     )
 }

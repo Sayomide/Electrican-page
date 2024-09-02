@@ -7,6 +7,5 @@ import './index.css'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Homepage />
-    <App />
   </StrictMode>,
 )
