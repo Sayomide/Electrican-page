@@ -1,11 +1,21 @@
+:root, * {
+  margin:0;
+  padding:0;
+}
+
 .Navbar {
   display: flex;
   width: 100%;
   justify-content: space-around;
   align-items: center;
-  color: red;
+  margin-top: 3%;
+}
+
+h2 {
+  margin-left: -15%;
 }
 
 .o {
   color: blue;
 }
+
